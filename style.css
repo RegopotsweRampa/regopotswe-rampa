@@ -69,6 +69,11 @@ body{
     padding: 0%;
     margin-top: 4%;
 }
+@media screen and (max-width: 768px) {
+    .softwareContainer {
+        font-size: 16px; 
+    }
+}
 .word1, .word2 {
     margin-top: -5%;
 }
