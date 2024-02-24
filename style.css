@@ -1,17 +1,30 @@
 body{
     font-family: 'Bahnschrift';
-    margin: 0px;
-    padding: 0px 20px;
+    margin: 0;
+    padding: 0;
     background-color: #ffa600;
     background-position: center;
     background-size: cover;
 }
 
+ 
+@media screen and (min-width: 1024px) {
+    
+}
+
+
+@media screen and (max-width: 1024px) {
+    
+}
+
+
+@media screen and (max-width: 768px) {
+    
+}
+
+
 @media screen and (max-width: 480px) {
-  body {
-    font-size: 16px;
-  }
-  
+    
 }
 .navbar {
     display: flex;
