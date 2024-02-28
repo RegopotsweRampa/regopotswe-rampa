@@ -250,5 +250,23 @@ body{
   text-align: center;
   font-weight: 300%;
 }
+
+@media screen and (max-width: 1024px) {
+    /* Styles for screens up to 1024px */
+}
+
+@media screen and (max-width: 768px) {
+    /* Styles for screens up to 768px */
+    .softwareContainer {
+        font-size: 16px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    /* Styles for screens up to 480px */
+    .editor-content {
+        font-size: 16px;
+    }
+}
   
   
